@@ -21,7 +21,7 @@ chicago.csv
 
  
 
-Require library:
+List of require library for doing this project:
 
 
 library(ggplot2)
